@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desmatamento da Amazônia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>O Impacto do Desmatamento na Amazônia 🌳</h1>
+        <p>Entenda os efeitos ambientais, sociais e econômicos da destruição da maior floresta tropical do mundo.</p>
+    </header>
+
+    <section class="container">
+        <div class="card">
+            <h2>O que é desmatamento?</h2>
+            <img src="amazonia.jpg" alt="Floresta Amazônica">
+            <p>O desmatamento é a remoção de árvores para exploração econômica, agricultura ou urbanização.</p>
+        </div>
+
+        <div class="card">
+            <h2>Consequências Ambientais</h2>
+            <ul>
+                <li>Perda de biodiversidade e extinção de espécies.</li>
+                <li>Aumento do efeito estufa devido à liberação de carbono.</li>
+                <li>Alteração dos ciclos de chuva e temperatura.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Impactos Sociais</h2>
+            <ul>
+                <li>Deslocamento de comunidades indígenas.</li>
+                <li>Empobrecimento do solo e dificuldades agrícolas.</li>
+                <li>Conflitos territoriais e exploração ilegal.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Soluções Sustentáveis</h2>
+            <img src="reflorestamento.jpg" alt="Reflorestamento">
+            <p>Alternativas como reflorestamento, exploração sustentável e políticas de proteção são fundamentais.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 - Preservação da Amazônia</p>
+    </footer>
+</body>
+</html>
